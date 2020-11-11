@@ -7,4 +7,4 @@ If after the drop phase neither player has won, they continue taking turns movin
 This game is a modified version of the same:
 The Teeko2 rules are almost identical to those of Teeko but we will exchange a rule. Specifically, we remove the 2x2 box winning condition and replace it with a diamond winning condition. Any diamond is defined by an empty center position surrounded by 4 markers on the spaces above, below, to the right, and to the left of the center. 
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/5/5d/Teeko_board.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Teeko_board.jpg" alt="teeko board" width="250" height="250">
